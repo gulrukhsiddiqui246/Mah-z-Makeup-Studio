@@ -1,0 +1,152 @@
+*{
+    font-weight:bolder;
+    font-style: italic;
+    font-family:serif;
+    color: #9C2626 !important; 
+
+}
+.gul{
+    background-color: #bfbfbf;
+
+}
+.fa{
+    margin-top: 20px;
+    margin-right: 7px;
+    font-size:large;
+    margin-left: 8px;
+}
+.brand{
+    text-shadow: 2px 2px 0px #bfbfbf;
+}
+/* .no{
+    margin-top: 0em;
+    padding-top: 0em;
+} */
+/* .brand1{
+    margin-top: 0em;
+    margin-bottom:0em;
+    padding-top: 0em;
+    padding-bottom: 0em;
+} */
+.sliderpara{
+    color:rgb(126, 12, 12) !important;
+}
+.boxes{
+    background-color:#bfbfbf ;
+}
+/* .background{
+   
+    position: absolute;
+} */
+.june{
+    background-image: url(./salonimages/backpink.jpg) ;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 1000px;
+   background-attachment: fixed;
+   
+  
+   
+}
+.boxbackground{
+    background-image: url(./salonimages/backmahron.jpg) ;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 2000px;
+   background-attachment: fixed;
+}
+
+
+
+/* ABOUTUS */
+
+.aboutback{
+    /* background-image: url(./salonimages/backgroundfinal.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+     */
+     background-image: url(./salonimages/background.jpg) ;
+     background-repeat: no-repeat;
+     background-position: center;
+     /* background-size: 2000px; */
+    background-attachment: fixed;
+    background-size: cover;
+    height: 60vh;
+    width: 100%;
+}
+.aboutblur{
+    background:rgba(155, 125, 120, 0.72);
+    backdrop-filter: blur(8px);
+    height: 50vh;
+    width: 100%; 
+    background-size: cover;
+}
+.pagesfooter{
+
+    background-color: #bfbfbf !important;
+}
+/* services */
+
+/* .servicesbox{
+    background-image: url(./salonimages/finalback2.jpg) ;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+   background-attachment: fixed;
+   height: 100vh;
+    width: 100%;
+
+}
+.serviceblur{
+
+    background:rgba(193, 66, 66, 0.11);
+    backdrop-filter: blur(8px);
+    height: 100vh;
+    width: 100%; 
+    background-size: cover;
+}
+.serleft{
+    padding-left: -5px;
+} */
+/* .servicepara{
+
+    text-indent: 10%;
+} */
+
+.facialborder{
+   border-color:rgb(126, 12, 12) !important; 
+}
+
+
+.makeupback{
+   flex-wrap: wrap;
+     background-image: url(./salonimages/newmakeupbrushes.jpg) ;
+     background-repeat: no-repeat;
+     background-position: center;
+     /* background-size: 2000px; */
+    background-attachment: fixed;
+    background-size: cover;
+    height: 100vh;
+    width: 100%;
+   
+}
+.makeupblur{
+    background:rgba(193, 66, 66, 0.03);
+    backdrop-filter: blur(20px);
+    height: 75vh;
+    width: 100%; 
+    background-size: cover;
+}
+/* .makeuphover:hover{
+    background-color: rgba(193, 66, 66, 0.03);
+} */
+.lol:hover{
+    background-color:whitesmoke;}
+
+.pop:focus{
+    background-color: rgba(130, 192, 243, 0.856);
+}
+.tryingnav{
+    background-color:rgb(126, 12, 12) ;
+}
+
